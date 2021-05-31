@@ -4,7 +4,6 @@ $output = '';
 $connect->set_charset("utf8");
 ?>
 
-
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -69,8 +68,7 @@ $connect->set_charset("utf8");
 	?>			
 			
 		<div/>	
-			
-			
+				
 			<h2 align="center" style="color:white">Kundeninformation</h2>
 			<br />
 			<div class="form-group">
