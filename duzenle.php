@@ -47,7 +47,6 @@ $sonuc = $sorgu->fetch_assoc();
         </tr>
 
     </table>
-
 </form>
 </div>
 <div>
