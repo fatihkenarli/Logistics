@@ -1,4 +1,4 @@
 # Logistics
 Speichern, bearbeiten, löschen und durchsuchen Sie mit JQuery in MySQL-Datenbanken <p>
-Live preview:
-http://expertmedia.tk/ajax/index.php </p>
+<a href="http://expertmedia.tk/ajax/index.php" target="_blank">Live preview </a>
+</p>
