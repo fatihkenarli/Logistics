@@ -2,9 +2,6 @@
 $connect = mysqli_connect("###.###.###.##:####", "########", "################", "####");
 $output = '';
 $connect->set_charset("utf8");
-?>
-
- <?php 
 
 if ($_GET) 
 {
