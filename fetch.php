@@ -15,7 +15,6 @@ $connect = mysqli_connect("###.###.###.##:####", "########", "################",
 $output = '';
 $connect->set_charset("utf8");
 
-
 if(isset($_POST["query"]))
 {
 	$search = mysqli_real_escape_string($connect, $_POST["query"]);
